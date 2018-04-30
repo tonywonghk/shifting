@@ -8,5 +8,14 @@
     <artifactId>shifiting-frontconnector</artifactId>
     <version>1.0.0</version>
 
+    <dependencies>
+        <dependency>
+            <groupId>io.netty</groupId>
+            <artifactId>netty-all</artifactId>
+            <version>4.1.24.Final</version>
+            <scope>compile</scope>
+        </dependency>
+    </dependencies>
+
 
 </project>
